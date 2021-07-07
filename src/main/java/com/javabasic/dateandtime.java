@@ -1,6 +1,5 @@
-package com.datetime;
+package com.javabasic;
 
-import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
